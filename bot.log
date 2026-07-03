@@ -1,0 +1,17 @@
+2026-07-03 16:07:58 | INFO     | netinspect | ==================================================
+2026-07-03 16:07:58 | INFO     | netinspect | NetInspect Bot starting up ...
+2026-07-03 16:07:58 | CRITICAL | netinspect | Startup failed: BOT_TOKEN is not set. Create a .env file or set the environment variable.
+2026-07-03 16:09:00 | INFO     | netinspect | ==================================================
+2026-07-03 16:09:00 | INFO     | netinspect | NetInspect Bot starting up ...
+2026-07-03 16:09:00 | CRITICAL | netinspect | Startup failed: BOT_TOKEN is not set. Create a .env file or set the environment variable.
+2026-07-03 16:09:56 | INFO     | netinspect | ==================================================
+2026-07-03 16:09:56 | INFO     | netinspect | NetInspect Bot starting up ...
+2026-07-03 16:09:57 | INFO     | netinspect | Bot is ready — polling for updates ...
+2026-07-03 16:10:30 | INFO     | netinspect | User 7378447394 started the bot.
+2026-07-03 16:10:35 | INFO     | netinspect | Help command invoked.
+2026-07-03 16:11:05 | INFO     | netinspect | /check google.com by user 7378447394
+2026-07-03 16:12:40 | INFO     | netinspect | /check https://www.turkiyeburslari.gov.tr/ by user 7378447394
+2026-07-03 16:13:50 | INFO     | netinspect | User 8634363334 started the bot.
+2026-07-03 16:14:28 | INFO     | netinspect | /check https://uo.asbu.edu.tr/sites/idari_birimler/uo.asbu.edu.tr/files/inline-files/2026-27%20Uluslararas%C4%B1%20O%CC%88g%CC%86renci%20Lisans%20Programlar%C4%B1%20Bas%CC%A7vuru%20Sonuc%CC%A7lar%C4%B1.pdf by user 8634363334
+2026-07-03 16:14:57 | INFO     | netinspect | /check https://anasis.anadolu.edu.tr/#/extendedlogin by user 8634363334
+2026-07-03 16:15:46 | INFO     | netinspect | /check https://obs.hacibayram.edu.tr/oibs/alert.aspx by user 8634363334
